@@ -1,4 +1,4 @@
-# Prompt flow
+# Prompt flow (No req.txt or pyproject.toml files)
 
 [![Python package](https://img.shields.io/pypi/v/promptflow)](https://pypi.org/project/promptflow/)
 [![Python](https://img.shields.io/pypi/pyversions/promptflow.svg?maxAge=2592000)](https://pypi.python.org/pypi/promptflow/)
